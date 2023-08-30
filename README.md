@@ -24,9 +24,13 @@ Access REST resources at http://localhost:8080/api.
 
 ## Examples
 Fetch all entities: GET /api/entities
+
 Fetch a specific entity: GET /api/entities/{id}
+
 Create an entity: POST /api/entities
+
 Update an entity: PUT /api/entities/{id}
+
 Delete an entity: DELETE /api/entities/{id}
 
 ## Contributing
